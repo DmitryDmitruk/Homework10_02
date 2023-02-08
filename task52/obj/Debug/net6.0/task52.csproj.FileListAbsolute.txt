@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\bin\Debug\net6.0\task52.exe
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\bin\Debug\net6.0\task52.deps.json
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\bin\Debug\net6.0\task52.runtimeconfig.json
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\bin\Debug\net6.0\task52.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\bin\Debug\net6.0\task52.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\refint\task52.dll
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\task52.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Рабочий стол\HOMEWORK\Homework10_02\Homework10_02\task52\obj\Debug\net6.0\ref\task52.dll
