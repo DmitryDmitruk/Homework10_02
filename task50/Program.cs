@@ -38,7 +38,7 @@ void positionOf(int [,]array1,int y, int x)
 {
     if (y<array1.GetLength(0)&&x<array1.GetLength(1))
     {
-        Console.WriteLine(array1[y,x]);
+        Console.WriteLine($"Элемент с данными индексами равен  {array1[y,x]}");
         
     }
     else
